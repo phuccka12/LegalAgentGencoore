@@ -1,0 +1,1 @@
+{'v.summary': 'Các hành vi vi phạm quy tắc giao thông gây tai nạn giao thông (không quan sát, quá tốc độ, đi sai đường/làn, không giữ khoảng cách, đi ngược chiều, v.v.)', 'v.fine_min': 10000000, 'v.fine_max': 14000000, 'v.clause': 10, 'v.article': 7}

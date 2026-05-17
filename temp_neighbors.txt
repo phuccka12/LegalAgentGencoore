@@ -1,0 +1,12 @@
+{'type(r)': 'APPLIES_TO', 'labels(m)': ['Category'], 'm.id': None, 'm.description': None, 'm.point_deduction': None, 'm.license_suspension_days': None, 'm.vehicle_impound_days': None}
+{'type(r)': 'TAGGED_AS', 'labels(m)': ['Topic'], 'm.id': None, 'm.description': None, 'm.point_deduction': None, 'm.license_suspension_days': None, 'm.vehicle_impound_days': None}
+{'type(r)': 'TAGGED_AS', 'labels(m)': ['Topic'], 'm.id': None, 'm.description': None, 'm.point_deduction': None, 'm.license_suspension_days': None, 'm.vehicle_impound_days': None}
+{'type(r)': 'CAN_SANCTION', 'labels(m)': ['Authority'], 'm.id': 'ND168_Art42_C2_pb', 'm.description': None, 'm.point_deduction': None, 'm.license_suspension_days': None, 'm.vehicle_impound_days': None}
+{'type(r)': 'CAN_SANCTION', 'labels(m)': ['Authority'], 'm.id': 'ND168_Art42_C3_pb', 'm.description': None, 'm.point_deduction': None, 'm.license_suspension_days': None, 'm.vehicle_impound_days': None}
+{'type(r)': 'CAN_SANCTION', 'labels(m)': ['Authority'], 'm.id': 'ND168_Art43_C4_b', 'm.description': None, 'm.point_deduction': None, 'm.license_suspension_days': None, 'm.vehicle_impound_days': None}
+{'type(r)': 'CAN_SANCTION', 'labels(m)': ['Authority'], 'm.id': 'ND168_Art43_C5_b', 'm.description': None, 'm.point_deduction': None, 'm.license_suspension_days': None, 'm.vehicle_impound_days': None}
+{'type(r)': 'CAN_SANCTION', 'labels(m)': ['Authority'], 'm.id': 'ND168_Art43_C6_b', 'm.description': None, 'm.point_deduction': None, 'm.license_suspension_days': None, 'm.vehicle_impound_days': None}
+{'type(r)': 'CAN_SANCTION', 'labels(m)': ['Authority'], 'm.id': 'ND168_Art44_C2_pb', 'm.description': None, 'm.point_deduction': None, 'm.license_suspension_days': None, 'm.vehicle_impound_days': None}
+{'type(r)': 'CAN_SANCTION', 'labels(m)': ['Authority'], 'm.id': 'ND168_Art44_C3_pb', 'm.description': None, 'm.point_deduction': None, 'm.license_suspension_days': None, 'm.vehicle_impound_days': None}
+{'type(r)': 'CAN_SANCTION', 'labels(m)': ['Authority'], 'm.id': 'ND168_Art44_C4_pb', 'm.description': None, 'm.point_deduction': None, 'm.license_suspension_days': None, 'm.vehicle_impound_days': None}
+{'type(r)': 'CAN_SANCTION', 'labels(m)': ['Authority'], 'm.id': 'ND168_Art48_C1_pb', 'm.description': None, 'm.point_deduction': None, 'm.license_suspension_days': None, 'm.vehicle_impound_days': None}

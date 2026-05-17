@@ -1,0 +1,12 @@
+Rel: APPLIES_TO | Label: ['Category'] | ID: None | Title: xe_mo_to_xe_gan_may
+Rel: TAGGED_AS | Label: ['Topic'] | ID: None | Title: toc_do
+Rel: TAGGED_AS | Label: ['Topic'] | ID: None | Title: quy_tac_duong_bo
+Rel: CAN_SANCTION | Label: ['Authority'] | ID: ND168_Art42_C2_pb | Title: Chủ tịch Ủy ban nhân dân cấp huyện có quyền phạt tiền đến 37.500.000 đồng.
+Rel: CAN_SANCTION | Label: ['Authority'] | ID: ND168_Art42_C3_pb | Title: Chủ tịch Ủy ban nhân dân cấp tỉnh có quyền phạt tiền đến 75.000.000 đồng.
+Rel: CAN_SANCTION | Label: ['Authority'] | ID: ND168_Art43_C4_b | Title: Quyền phạt tiền đến 15.000.000 đồng của Trưởng Công an cấp huyện và các chức danh tương đương
+Rel: CAN_SANCTION | Label: ['Authority'] | ID: ND168_Art43_C5_b | Title: Quyền phạt tiền đến 37.500.000 đồng của Giám đốc Công an cấp tỉnh
+Rel: CAN_SANCTION | Label: ['Authority'] | ID: ND168_Art43_C6_b | Title: Quyền phạt tiền đến 75.000.000 đồng của Cục trưởng Cục Cảnh sát giao thông, Cục trưởng Cục Cảnh sát quản lý hành chính về trật tự xã hội, Tư lệnh Cảnh sát cơ động
+Rel: CAN_SANCTION | Label: ['Authority'] | ID: ND168_Art44_C2_pb | Title: Thẩm quyền phạt tiền đến 37.500.000 đồng của Chánh Thanh tra Sở Giao thông vận tải.
+Rel: CAN_SANCTION | Label: ['Authority'] | ID: ND168_Art44_C3_pb | Title: Thẩm quyền phạt tiền đến 52.500.000 đồng của Chánh Thanh tra tỉnh, thành phố trực thuộc trung ương (trong trường hợp không thành lập Thanh tra Sở Giao thông vận tải).
+Rel: CAN_SANCTION | Label: ['Authority'] | ID: ND168_Art44_C4_pb | Title: Thẩm quyền phạt tiền đến 75.000.000 đồng của Chánh Thanh tra Bộ Giao thông vận tải, Cục trưởng Cục Đường bộ Việt Nam, Cục trưởng Cục Đăng kiểm Việt Nam.
+Rel: CAN_SANCTION | Label: ['Authority'] | ID: ND168_Art48_C1_pb | Title: Áp dụng tạm giữ phương tiện đối với các hành vi vi phạm tại Điều 7, cụ thể là điểm a khoản 6; điểm b khoản 7; điểm b khoản 8; điểm a, điểm b, điểm d, điểm đ, điểm e, điểm g, điểm h, điểm i, điểm k khoản 9; khoản 11.

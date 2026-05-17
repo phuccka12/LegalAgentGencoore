@@ -1,0 +1,8 @@
+ND168_Art7_C11_a_1: Buông cả hai tay khi đang điều khiển xe
+ND168_Art7_C11_a_2: Dùng chân điều khiển xe
+ND168_Art7_C11_a_3: Ngồi về một bên điều khiển xe
+ND168_Art7_C11_a_4: Nằm trên yên xe điều khiển xe
+ND168_Art7_C11_a_5: Thay người điều khiển khi xe đang chạy
+ND168_Art7_C11_a_6: Quay người về phía sau để điều khiển xe hoặc bịt mắt điều khiển xe
+ND168_Art7_C11_b: Điều khiển xe chạy bằng một bánh (xe hai bánh) hoặc hai bánh (xe ba bánh)
+ND168_Art7_C11_c: Tái phạm hành vi điều khiển xe lạng lách, đánh võng (điểm a khoản 9)

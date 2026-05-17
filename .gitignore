@@ -1,0 +1,36 @@
+# Python Virtual Environment
+venv/
+.venv/
+ENV/
+env/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Frontend (Node/Next.js)
+legal-frontend/node_modules/
+legal-frontend/.next/
+legal-frontend/out/
+legal-frontend/build/
+legal-frontend/.env*.local
+
+# Environment & Credentials
+.env
+.env.local
+.env.production
+db_audit_report.txt
+node_props.txt
+
+# IDEs
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp

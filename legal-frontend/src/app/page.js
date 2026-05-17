@@ -33,7 +33,16 @@ export default function Home() {
     setIsLoading(true);
 
     try {
-      const api_url = `${process.env.NEXT_PUBLIC_API_URL || "http://localhost:8000"}/chat`;
+      // Dynamic API URL resolution at runtime to avoid Next.js build-time environment variable traps.
+      let api_host = "http://localhost:8000";
+      if (typeof window !== "undefined") {
+        const hostname = window.location.hostname;
+        if (hostname !== "localhost" && hostname !== "127.0.0.1") {
+          api_host = window.location.origin;
+        }
+      }
+      const api_url = `${api_host}/chat`;
+      
       const response = await fetch(api_url, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
